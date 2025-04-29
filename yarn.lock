@@ -2430,7 +2430,6 @@ qrcode.react@^4.2.0:
     "@mui/system" "^6.4.7"
     "@mui/x-date-pickers" "^7.27.3"
     "@reduxjs/toolkit" "^2.6.1"
-    "@types/antd" "^1.0.4"
     antd "^5.24.7"
     axios "^1.8.2"
     dayjs "^1.11.13"
